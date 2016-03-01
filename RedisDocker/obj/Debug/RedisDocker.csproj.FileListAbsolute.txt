@@ -1,0 +1,13 @@
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\RedisDocker.exe.config
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\RedisDocker.exe
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\RedisDocker.pdb
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\StackExchange.Redis.dll
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\StackExchange.Redis.pdb
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\StackExchange.Redis.xml
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\obj\Debug\RedisDocker.csprojResolveAssemblyReference.cache
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\obj\Debug\RedisDocker.exe
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\obj\Debug\RedisDocker.pdb
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\Bogus.dll
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\Newtonsoft.Json.dll
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\Bogus.xml
+G:\projects\mandeville-meetup\RedisDocker\RedisDocker\bin\Debug\Newtonsoft.Json.xml
